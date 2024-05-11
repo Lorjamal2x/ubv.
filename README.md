@@ -17,10 +17,10 @@ const ubv = {
   techCommunities: {
                         owner: "jamal",
                         dev: "xia",
-                        affliated with: "infinity sports"
+                        affliated with : "infinity sports"
                       },
  about us: "join our server to know more about us"
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>join our community and get to know about us more<b>hi, We'll be happy to see you in our community !</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>join our community and get to know about us more!<b>!</b> :)</em>
