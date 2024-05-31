@@ -11,7 +11,7 @@ var petsData = [
     {name: "Haunted Thunder (HT)", d: 575000.0, displaytype: "true", rarity: "legendary", filtertype: "Effects", imageUrl: "https://i.ibb.co/8Nz6rXB/Haunted-Thunder.png"},
     {name: "Glowing Pumpkin (GP)", d: 450000.0, displaytype: "true", rarity: "legendary", filtertype: "Skins", imageUrl: "https://i.ibb.co/yhZfrDz/gp.png"},
     {name: "Skeleton Stare (Skele)", d: 350000.0, displaytype: "true", rarity: "legendary", filtertype: "Banner", imageUrl: "https://i.ibb.co/bJ1bYWZ/skeleton.png"},
-    {name: "Solar Eclipse (SE)", d: 250000.0, displaytype: "true", rarity: "Epic", filtertype: "https://ibb.co/xmbFq7Y"},
+    {name: "Solar Eclipse (SE)", d: 250000.0, displaytype: "true", rarity: "Epic", filtertype: "https://i.ibb.co/ZffTS0C/Untitled-1-1-removebg-preview.png"},
     {name: "Glacier", d: 250000.0, displaytype: "true", rarity: "legendary", filtertype: "Skins", imageUrl: "https://i.ibb.co/SsVsrzJ/icon-glacier.png"},
     {name: "Byte", d: 225000.0, displaytype: "true", rarity: "legendary", filtertype: "Skins", imageUrl: "https://i.ibb.co/jMNYvM6/byte.png"},
     {name: "Mecha", d: 225000.0, displaytype: "true", rarity: "legendary", filtertype: "Skins", imageUrl: "https://i.ibb.co/pv5kw3V/mecha.png"},
