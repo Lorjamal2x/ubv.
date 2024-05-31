@@ -4,7 +4,8 @@ var petsData = [
     {name: "Shadow Boss (SB)", d: 1600000.0, displaytype: "true", rarity: "Mythic", filtertype: "Effects", imageUrl: "https://i.ibb.co/VjPnrpW/shadowboss.png"},
     {name: "Edge Runner(ER)", d: 1350000.0, displaytype: "true", rarity: "Mythic", filtertype: "Effects", imageUrl: "https://i.ibb.co/NFVMxsh/edge.png"},
     {name: "Crimson Eclipse (CE)", d: 1250000.0, displaytype: "true", rarity: "Mythic", filtertype: "Effects", imageUrl: "https://i.ibb.co/n147Cs5/crimson-eclipse.png"},
-    {name: "Purple Eye (PE)", d: 1200000.0, displaytype: "true", rarity: "Legendary", filtertype: "Skins", imageUrl: "https://i.ibb.co/6sc1NJJ/purple-eye.png"},
+    {name: "Purple Eye", d: 1200000.0, displaytype: "true", rarity: "Mythic", filtertype: "Skins", imageUrl: "https://i.ibb.co/6sc1NJJ/purple-eye.png"},
+ 
     {name: "Roaring Star (RS)", d: 1150000.0, displaytype: "true", rarity: "Mythic", filtertype: "Effects", imageUrl: "https://i.ibb.co/2y8tM6K/Untitled-1.png"},
     {name: "Enchanted (Ench)", d: 875000.0, displaytype: "true", rarity: "legendary", filtertype: "Effects", imageUrl: "https://i.ibb.co/rbJKFrd/Enchanted.png"},
     {name: "Haunted Thunder (HT)", d: 575000.0, displaytype: "true", rarity: "legendary", filtertype: "Effects", imageUrl: "https://i.ibb.co/8Nz6rXB/Haunted-Thunder.png"},
@@ -18,11 +19,11 @@ var petsData = [
     {name: "Blood Moon (BM)", d: 170000.0, displaytype: "true", rarity: "legendary", filtertype: "Skins", imageUrl: "https://i.ibb.co/xFvJfY5/bm.png"},
     {name: "Overseer (os)", d: 175000.0,  displaytype: "true", rarity: "legendary", filtertype: "Skins", imageUrl: "https://i.ibb.co/jL657My/seer.png"},
     {name: "Dribbling Pumpkins (DP)", d: 150000.0,displaytype: "true", rarity: "legendary", filtertype: "banner", imageUrl: "https://i.ibb.co/gwCYhKG/dribble.png"},
-    {name: "Hot and Cold (HNC)", d: 12  5000.0, displaytype: "true", rarity: "legendary", filtertype: "Effects", imageUrl: "https://i.ibb.co/D9q8PL2/hncv.png"},
+    {name: "Hot and Cold (HNC)", d: 125000.0, displaytype: "true", rarity: "legendary", filtertype: "Effects", imageUrl: "https://i.ibb.co/D9q8PL2/hncv.png"},
     {name: "Cyborg (Cy)", d: 100000.0, displaytype: "true", rarity: "legendary", filtertype: "Skins", imageUrl: "https://i.ibb.co/qnJDdKR/ABCBFFEB-BFE1-4-E52-8-CC6-F33-C26-F61-F9-E.jpg"},
     {name: "Snowy Night (SN)", d: 200000.0 , displaytype: "true", rarity: "legendary", filtertype: "banner", imageUrl: "https://i.ibb.co/Vvv1Cw2/snowy.png"},
     {name: "Fireplace (FP)", d: 200000.0, displaytype: "true", rarity: "legendary", filtertype: "banner", imageUrl: "https://i.ibb.co/gmnsjzS/fireplace.png"},
-    {name: "Psycho 100", d: 180000.0, displaytype: "true", rarity: "legendary", filtertype: "Effects", imageUrl: "https://i.ibb.co/bNYyfWT/Untitled-11.png"},
+    {name: "Psycho 100", d: 180000.0, displaytype: "true", rarity: "legendary", filtertype: "Effects", imageUrl: "https://i.ibb.co/TKwLbZ9/100.png"},
     {name: "Power Blast (PB)", d: 85000.0, displaytype: "true", rarity: "legendary", filtertype: "Effects", imageUrl: "https://i.ibb.co/bNYyfWT/Untitled-11.png"},
     {name: "Timescape (TS)", d: 75000.0, displaytype: "true", rarity: "legendary", filtertype: "Effects", imageUrl: "https://i.ibb.co/R7bwJnc/timescape.png"},
     {name: "Meridian (Merd)", d: 65000.0, displaytype: "true", rarity: "legendary", filtertype: "Skins", imageUrl: "https://i.ibb.co/56BGN68/meridian.png"},
@@ -36,7 +37,7 @@ var petsData = [
     {name: "Festive Lights", d: 40000.0, displaytype: "true", rarity: "legendary", filtertype: "Skins", imageUrl: "https://i.ibb.co/RDq83tP/festivelights-icon.png"},
     {name: "Magma", d: 35000.0, displaytype: "true", rarity: "legendary", filtertype: "Skins", imageUrl: "https://i.ibb.co/V9pJYZn/magma.png"},
     {name: "Lightning", d: 30000.0, displaytype: "true", rarity: "legendary", filtertype: "Skins", imageUrl: "https://i.ibb.co/9VmrRSW/lightin.png"},
-    {name: "Spiked", d: 30000.0, displaytype: "true", rarity: "legendary", filtertype: "skins", imageUrl: "https://i.ibb.co/jMYZHPC/spiked.png"},
+    {name: "Spiked", d: 30000.0, displaytype: "true", rarity: "legendary", filtertype: "skins", imageUrl: "https://i.ibb.co/61RFSnQ/spiked.png"},
     {name: "Bats", d: 30000.0, displaytype: "true", rarity: "epic", filtertype: "Effects", imageUrl: "https://i.ibb.co/xgGfdf1/Bats.png"},
     {name: "Hex", d: 25000.0, displaytype: "true", rarity: "legendary", filtertype: "Skins", imageUrl: "https://i.ibb.co/7zYC0qh/hex.png"},
     {name: "Phoenix Cannon (PC)", d: 25000.0, displaytype: "ture", rarity: "legendary", filtertype: "Effects", imageUrl: "https://i.ibb.co/R7z5B3q/Phoenix-Cannon.png"},
@@ -44,6 +45,5 @@ var petsData = [
     {name: "Airstrike (Air)", d: 20000.0, displaytype: "true", rarity: "legendary", filtertype: "Effects", imageUrl: "https://i.ibb.co/hZx5djp/airstrike.png"},
     {name: "Money Counter (MC)", d: 15000.0, displaytype: "true", rarity: "legendary", filtertype: "banner", imageUrl: "https://i.ibb.co/jJ4B4jt/Capture.png"},
     {name: "Neon Triangle (NT", d: 15000.0, displaytype: "ture", rarity: "legendary", filtertype: "banner", imageUrl: "https://i.ibb.co/vBMzcMx/neon.png"},
-   
     ]
     
