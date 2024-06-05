@@ -4,7 +4,7 @@ var petsData = [
     {name: "Shadow Boss (SB)", d: 1600000.0, displaytype: "true", rarity: "Mythic", filtertype: "Effects", imageUrl: "https://i.ibb.co/VjPnrpW/shadowboss.png"},
     {name: "Edge Runner(ER)", d: 1300000.0, displaytype: "true", rarity: "Mythic", filtertype: "Effects", imageUrl: "https://i.ibb.co/NFVMxsh/edge.png"},
     {name: "Crimson Eclipse (CE)", d: 1200000.0, displaytype: "true", rarity: "Mythic", filtertype: "Effects", imageUrl: "https://i.ibb.co/n147Cs5/crimson-eclipse.png"},
-    {name: "Purple Eye", d: 1200000.0, displaytype: "true", rarity: "Mythic", filtertype: "Skins", imageUrl: "https://i.ibb.co/6sc1NJJ/purple-eye.png"},
+    {name: "Purple Eye", d: 1200000.0, displaytype: "true", rarity: "Mythic", filtertype: "Skins", imageUrl: "https://i.ibb.co/jT5L2Qc/latest.png"},
  
     {name: "Roaring Star (RS)", d: 1150000.0, displaytype: "true", rarity: "Mythic", filtertype: "Effects", imageUrl: "https://i.ibb.co/2y8tM6K/Untitled-1.png"},
     {name: "Enchanted (Ench)", d: 875000.0, displaytype: "true", rarity: "legendary", filtertype: "Effects", imageUrl: "https://i.ibb.co/rbJKFrd/Enchanted.png"},
@@ -45,6 +45,9 @@ var petsData = [
     {name: "RGB", d: 20000.0, displaytype: "true", rarity: "legendary", filtertype: "Skins", imageUrl: "https://i.ibb.co/8s4hX4F/rgb.png"},
     {name: "Airstrike (Air)", d: 20000.0, displaytype: "true", rarity: "legendary", filtertype: "Effects", imageUrl: "https://i.ibb.co/hZx5djp/airstrike.png"},
     {name: "Money Counter (MC)", d: 15000.0, displaytype: "true", rarity: "legendary", filtertype: "banner", imageUrl: "https://i.ibb.co/jJ4B4jt/Capture.png"},
-    {name: "Neon Triangle (NT", d: 15000.0, displaytype: "ture", rarity: "legendary", filtertype: "banner", imageUrl: "https://i.ibb.co/vBMzcMx/neon.png"},
+    {name: "Neon Triangle (NT", d: 15000.0, displaytype: "true", rarity: "legendary", filtertype: "banner", imageUrl: "https://i.ibb.co/vBMzcMx/neon.png"},
+    {name: "Interface", d: 150000.0, displaytype: "true", rarity: "legendary", filtertype: "banner", imageUrl: "https://i.ibb.co/5smdVgK/matrix.gif"},
+    {name: "Malfunction", d: 150000.0, displaytype: "true", rarity: "legendary", filtertype: "banner", imageUrl: "https://i.ibb.co/L1QrmRF/malfuctun.gif"},
+    
     ]
     
