@@ -1,5 +1,5 @@
 var petsData = [
-    {name: "The Sun", d: 1900000.0, displaytype: "true", rarity: "Mythic", filtertype: "Skins", imageUrl: "https://i.ibb.co/9cXTnjT/sun.png"},
+    {name: "The Sun", d: 2000000.0, displaytype: "true", rarity: "Mythic", filtertype: "Skins", imageUrl: "https://i.ibb.co/9cXTnjT/sun.png"},
     {name: "Energy Core", d: 1700000.0, displaytype: "true", rarity: "Mythic", filtertype: "Skins", imageUrl: "https://i.ibb.co/xmVCz6V/ec.png"},
     {name: "Shadow Boss (SB)", d: 1600000.0, displaytype: "true", rarity: "Mythic", filtertype: "Effects", imageUrl: "https://i.ibb.co/VjPnrpW/shadowboss.png"},
     {name: "Edge Runner(ER)", d: 1300000.0, displaytype: "true", rarity: "Mythic", filtertype: "Effects", imageUrl: "https://i.ibb.co/NFVMxsh/edge.png"},
@@ -11,7 +11,7 @@ var petsData = [
     {name: "Haunted Thunder (HT)", d: 585000.0, displaytype: "true", rarity: "legendary", filtertype: "Effects", imageUrl: "https://i.ibb.co/8Nz6rXB/Haunted-Thunder.png"},
     {name: "Glowing Pumpkin (GP)", d: 450000.0, displaytype: "true", rarity: "legendary", filtertype: "Skins", imageUrl: "https://i.ibb.co/yhZfrDz/gp.png"},
     {name: "Skeleton Stare (Skele)", d: 350000.0, displaytype: "true", rarity: "legendary", filtertype: "Banner", imageUrl: "https://i.ibb.co/bJ1bYWZ/skeleton.png"},
-    {name: "Solar Eclipse (SE)", d: 275000.0, displaytype: "true", rarity: "Epic", filtertype: "Effects", imageUrl: "https://i.ibb.co/ZffTS0C/Untitled-1-1-removebg-preview.png"},
+    {name: "Solar Eclipse (SE)", d: 300000.0, displaytype: "true", rarity: "Epic", filtertype: "Effects", imageUrl: "https://i.ibb.co/ZffTS0C/Untitled-1-1-removebg-preview.png"},
     {name: "Glacier", d: 250000.0, displaytype: "true", rarity: "legendary", filtertype: "Skins", imageUrl: "https://i.ibb.co/SsVsrzJ/icon-glacier.png"},
     {name: "Byte", d: 225000.0, displaytype: "true", rarity: "legendary", filtertype: "Skins", imageUrl: "https://i.ibb.co/jMNYvM6/byte.png"},
     {name: "Mecha", d: 225000.0, displaytype: "true", rarity: "legendary", filtertype: "Skins", imageUrl: "https://i.ibb.co/pv5kw3V/mecha.png"},
